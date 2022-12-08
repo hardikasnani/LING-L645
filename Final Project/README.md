@@ -10,7 +10,7 @@ Sentiment Analysis models are built leveraging a `deep learning` approach utiliz
 reviews` of `Amazon products`. Since `Long Short Term Memory Network` (LSTM) is very effective in dealing with long sequence
 data and learning long-term dependencies, it is used for automatic sentiment classification of future product reviews.
 
-![](https://github.com/hardikasnani/sentiment-analysis-leveraging-lstm/blob/main/screenshot/people-sentiment.png)
+![](https://github.com/hardikasnani/LING-L645/blob/main/Final%20Project/screenshot/people-sentiment.png)
 
 `NOTE`: The image above is generated through [DALL·E preview app](https://labs.openai.com).
 
@@ -49,7 +49,7 @@ Following are the highlights of the project:
   - Used `SMOTE` to `synthetically` create the `oversampled data`
 - `Comparison` between different sentiment models
 
-![](https://github.com/hardikasnani/sentiment-analysis-leveraging-lstm/blob/main/screenshot/sentiment-distribution.png)
+![](https://github.com/hardikasnani/LING-L645/blob/main/Final%20Project/screenshot/sentiment-distribution.png)
 
 ## Dataset
 
@@ -84,7 +84,7 @@ trained and evaluated under the best setting.
 
 ## License
 
-This project is licensed under the MIT License and for more details, see the [LICENSE.md](https://github.com/hardikasnani/sentiment-analysis-leveraging-lstm/blob/main/LICENSE) file
+This project is licensed under the MIT License and for more details, see the [LICENSE.md](https://github.com/hardikasnani/LING-L645/blob/main/Final%20Project/LICENSE) file
 
 ## References
 
@@ -120,7 +120,7 @@ Learning Deep Learning,” 2022 IEEE International Conference on Data Science an
 ## End Notes
 
 Did you find this project useful? Which other setting do you think can be explored? In which other way can the imbalance
-in this data be handled? Feel free to discuss your experiences on the [discussion portal](https://github.com/hardikasnani/sentiment-analysis-leveraging-lstm/discussions),
+in this data be handled? Feel free to discuss your experiences on the [discussion portal](https://github.com/hardikasnani/LING-L645/discussions),
 and I'll be more than happy to discuss.
 
 [Back to Top](#sentiment-analysis-leveraging-lstm)
